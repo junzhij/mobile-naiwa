@@ -1,0 +1,186 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="804" viewBox="0 0 210 402" fill="none" role="img" aria-label="奶蛙，一只黄橙色、绿色眼睛、双手抱着奶油色肚子的卡通角色">
+  <title>奶蛙 · 透明背景 SVG 矢量素材</title>
+  <desc>全部由可编辑 SVG 路径、渐变和椭圆构成，透明背景，无嵌入位图、无环境投影。</desc>
+  <defs>
+    <linearGradient id="body" x1="48" y1="24" x2="187" y2="284" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F9B70B"/>
+      <stop offset=".24" stop-color="#FFCD31"/>
+      <stop offset=".58" stop-color="#FFCE38"/>
+      <stop offset=".81" stop-color="#F0A30D"/>
+      <stop offset="1" stop-color="#D98800"/>
+    </linearGradient>
+    <radialGradient id="headLight" cx="0" cy="0" r="1" gradientTransform="translate(116 28) rotate(137) scale(103 110)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE777" stop-opacity=".80"/>
+      <stop offset=".45" stop-color="#FFDE4E" stop-opacity=".48"/>
+      <stop offset="1" stop-color="#FFE347" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="throatShade" cx="0" cy="0" r="1" gradientTransform="translate(69 78) scale(73 94)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C67900" stop-opacity=".54"/>
+      <stop offset=".45" stop-color="#D88900" stop-opacity=".33"/>
+      <stop offset="1" stop-color="#DB9800" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="chestShadow" cx="0" cy="0" r="1" gradientTransform="translate(57 87) rotate(25) scale(60 83)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D58B00" stop-opacity=".69"/>
+      <stop offset=".38" stop-color="#E79B00" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#ECA700" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bellyLowShadow" cx="0" cy="0" r="1" gradientTransform="translate(83 281) rotate(-87) scale(130 112)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#CB7900" stop-opacity=".75"/>
+      <stop offset=".50" stop-color="#DA8800" stop-opacity=".36"/>
+      <stop offset="1" stop-color="#FFBA04" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="belly" x1="32" y1="119" x2="135" y2="239" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E8BB7E"/>
+      <stop offset=".34" stop-color="#EAC289"/>
+      <stop offset=".68" stop-color="#E6B978"/>
+      <stop offset="1" stop-color="#D3A064"/>
+    </linearGradient>
+    <radialGradient id="bellyLight" cx="0" cy="0" r="1" gradientTransform="translate(80 143) rotate(89) scale(125 90)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F1CE9A" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#E1AF75" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="leftLeg" x1="44" y1="270" x2="102" y2="348" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E5A00C"/>
+      <stop offset=".30" stop-color="#D88A06"/>
+      <stop offset=".69" stop-color="#C87A03"/>
+      <stop offset="1" stop-color="#AA5A00"/>
+    </linearGradient>
+    <linearGradient id="rightLeg" x1="154" y1="287" x2="119" y2="359" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFC027"/>
+      <stop offset=".37" stop-color="#F1A90A"/>
+      <stop offset=".77" stop-color="#D68A05"/>
+      <stop offset="1" stop-color="#B46D02"/>
+    </linearGradient>
+    <linearGradient id="footRear" x1="78" y1="349" x2="85" y2="372" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B27C29"/>
+      <stop offset=".47" stop-color="#85611B"/>
+      <stop offset="1" stop-color="#58480C"/>
+    </linearGradient>
+    <linearGradient id="footFront" x1="143" y1="355" x2="141" y2="394" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C09242"/>
+      <stop offset=".44" stop-color="#94702D"/>
+      <stop offset="1" stop-color="#605013"/>
+    </linearGradient>
+    <linearGradient id="arm" x1="153" y1="146" x2="96" y2="218" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE04F"/>
+      <stop offset=".40" stop-color="#FFCF20"/>
+      <stop offset=".76" stop-color="#F6B200"/>
+      <stop offset="1" stop-color="#E59D00"/>
+    </linearGradient>
+    <radialGradient id="armSoftShade" cx="0" cy="0" r="1" gradientTransform="translate(147 194) rotate(129) scale(70 72)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C87500" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#B2750A" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="finger" x1="42" y1="196" x2="84" y2="198" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#736024"/>
+      <stop offset=".32" stop-color="#84702F"/>
+      <stop offset=".55" stop-color="#9E7727"/>
+      <stop offset=".78" stop-color="#D49B14"/>
+      <stop offset="1" stop-color="#F4B509"/>
+    </linearGradient>
+    <linearGradient id="farFinger" x1="18" y1="181" x2="35" y2="199" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6A541A"/>
+      <stop offset=".42" stop-color="#8D7132"/>
+      <stop offset=".82" stop-color="#75601F"/>
+      <stop offset="1" stop-color="#5E4B13"/>
+    </linearGradient>
+    <radialGradient id="fingerHighlight" cx="0" cy="0" r="1" gradientTransform="translate(48 179) rotate(58) scale(25 37)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#DAC073" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#C1AB5F" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="eyeIris" cx="0" cy="0" r="1" gradientTransform="translate(76 31) rotate(55) scale(17 15)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ADD893"/>
+      <stop offset=".43" stop-color="#80B970"/>
+      <stop offset=".77" stop-color="#438A55"/>
+      <stop offset="1" stop-color="#276044"/>
+    </radialGradient>
+    <radialGradient id="pupil" cx="0" cy="0" r="1" gradientTransform="translate(77 32) rotate(90) scale(9)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#151814"/>
+      <stop offset=".75" stop-color="#080C0A"/>
+      <stop offset="1" stop-color="#000200"/>
+    </radialGradient>
+    <linearGradient id="beak" x1="49" y1="51" x2="69" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C37900"/>
+      <stop offset=".35" stop-color="#EDB32C"/>
+      <stop offset="1" stop-color="#F4C23E"/>
+    </linearGradient>
+    <path id="bodyShape" d="M52.9 55.7 C52.3 52.6 53.2 49 54.7 44.4 C58.2 25.6 71.8 15.5 86.7 13.4 C109.4 8.8 125.9 20.9 136.2 39.9 C145.4 57.5 155.5 78.8 167.4 100.1 C185.3 133.5 200.7 172.3 200.2 211.3 C200.8 245.9 188.2 267.2 170.4 281.7 C156.3 293 125.9 290.7 105.5 288.4 C84 288.7 64.7 279.1 53 266.4 C36.9 251.6 26.3 226.4 20 198.3 C15.6 179.4 18.9 163.9 30.7 145.8 C40.3 129.5 53.2 116 61.8 101 C68.3 90.8 70.2 80.3 66.3 69.8 C62.8 61.8 56.5 59.1 52.9 55.7Z"/>
+    <clipPath id="bodyClip"><use href="#bodyShape"/></clipPath>
+    <path id="bellyShape" d="M64.9 119.1 C76.7 117.2 91.5 127.2 104.5 139.9 C118 152.7 131.9 170 142.5 189.3 C155 210.6 128.2 220.1 106.4 227.1 C85 233.7 53.7 243.3 29.3 235 C21.1 232.4 17.9 218.7 18.1 205.8 C18.2 182.5 36.4 148.8 52.4 129.4 C57.6 123.5 60.2 120.7 64.9 119.1Z"/>
+    <clipPath id="bellyClip"><use href="#bellyShape"/></clipPath>
+    <path id="armShape" d="M119.9 131.2 C131.1 131.3 147.5 140.1 153.5 153.2 C161.8 169.3 157 186 144.5 198.6 C130.4 212.8 109.2 215.8 72.7 215.4 C63.7 207.8 64.7 195.6 75.7 187.4 C89.5 177.7 107.6 171.6 118 168.6 C117.1 154.7 116.8 142.2 119.9 131.2Z"/>
+    <clipPath id="armClip"><use href="#armShape"/></clipPath>
+  </defs>
+
+  <!-- Legs sit behind the torso; all feet and toes are independent editable paths. -->
+  <path d="M51.9 257.6 C50.4 278.7 53.8 303 62.8 323.8 C70.6 341.3 81.8 349 83.8 356.6 C87.1 369.5 102.2 369.6 102.6 361.2 C101 350.5 97.8 343.9 99 325.3 C100.2 308.6 105.6 296.4 105.6 279.5Z" fill="url(#leftLeg)"/>
+  <path d="M109.4 280.3 C111.8 300.8 121 326.2 139.1 347.2 C146.7 356.2 147.3 362.2 146.1 370.6 C143.5 381.2 154 381 159.8 369.8 C165.1 349.2 165.9 315.7 168.5 278.4Z" fill="url(#rightLeg)"/>
+  <path d="M57.9 271.2 C52.4 302.5 73 346.7 90.9 351" stroke="#B46B01" stroke-opacity=".2" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Rear foot to the viewer's left -->
+  <path d="M83.7 352.6 C88.5 352.5 94.8 355.8 100.4 358.6 C106.5 362.3 108.7 367.5 105.4 370.7 C102 374.2 86.7 371.8 74.3 372.9 L41.3 374.2 C33.3 374.4 28 371.9 30.6 366 C32.9 360.7 40.3 358.9 51.7 358.2 C63.1 356.8 75.5 353.1 83.7 352.6Z" fill="url(#footRear)"/>
+  <path d="M31.1 367 C32 364.2 35.5 362 39.1 361.7 C42.7 361.7 42.4 365.4 40.4 367.1 L34.4 372.9" stroke="#453609" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M43.1 370.3 C43.2 367.8 46.2 365 49.1 364.9 C51.3 364.5 51.5 367 51.2 369.5" stroke="#493B09" stroke-width="1.6" stroke-linecap="round"/>
+  <path d="M60.1 362 C72 359.2 91 358.6 101.3 364.9" stroke="#C49645" stroke-width="1.8" opacity=".3" stroke-linecap="round"/>
+
+  <!-- Main one-piece pear-shaped skin, lit by vector-only radial gradients. -->
+  <use href="#bodyShape" fill="url(#body)"/>
+  <g clip-path="url(#bodyClip)">
+    <rect x="5" y="0" width="200" height="303" fill="url(#headLight)"/>
+    <rect x="5" y="0" width="200" height="303" fill="url(#throatShade)"/>
+    <rect x="5" y="0" width="200" height="303" fill="url(#chestShadow)"/>
+    <rect x="5" y="0" width="200" height="303" fill="url(#bellyLowShadow)"/>
+    <path d="M140 15 C173 58 211 134 212 216 C212 258 192 284 168 287 C193 244 192 199 173 141 C161 98 141 64 140 15Z" fill="#FFE06C" opacity=".08"/>
+  </g>
+
+  <!-- Cream-colored belly plate -->
+  <use href="#bellyShape" fill="url(#belly)"/>
+  <g clip-path="url(#bellyClip)">
+    <rect x="0" y="112" width="175" height="137" fill="url(#bellyLight)"/>
+    <path d="M20 225 C48 245 96 221 152 199" stroke="#BF8842" stroke-opacity=".14" stroke-width="8"/>
+  </g>
+
+  <!-- Arm behind the belly, and the small far-side hand -->
+  <path d="M27.4 152 C14.1 155.8 10.2 168.3 10.6 183 C10.8 192.3 15.9 202.1 22.3 205.1 L31 182.8 C27.2 174.7 27.3 162.4 33.8 153Z" fill="url(#arm)"/>
+  <path d="M35 171.9 C29.2 170.4 24.5 172.7 21.4 176.4 C17.8 179.9 17.8 185.2 18.9 190.1 C18.5 197.3 20.7 202.6 25 204.5 C27.2 207.7 30.9 207.3 31.6 204.8 C32.1 200.8 30.4 197 28.3 195.8 C34.7 193.8 34.4 189.2 30.6 187.2 C34.8 184.7 31.7 181.9 29 181.1 C29.1 177.8 33.6 175.1 35 171.9Z" fill="url(#farFinger)"/>
+  <path d="M35 172.2 C30.1 173 23.9 178.3 22.8 184.8 M22.6 186.8 C24.3 189.1 27.7 190.7 31 190.4 M22.3 197 C25 199.2 28.5 200.8 31 200" stroke="#4A3B12" stroke-width=".95" stroke-opacity=".72" stroke-linecap="round" fill="none"/>
+  <path d="M25 175 C19 183 20 199 28 203" stroke="#E1C275" stroke-opacity=".21" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+
+  <!-- Upper arm and forearm crossing the belly -->
+  <use href="#armShape" fill="url(#arm)"/>
+  <g clip-path="url(#armClip)">
+    <rect x="60" y="125" width="109" height="98" fill="url(#armSoftShade)"/>
+    <path d="M111 211 C139 204 156 193 160 172" stroke="#B77600" stroke-opacity=".14" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <path d="M119.1 132 C117.9 142.1 118.2 152.4 120.7 155.9" stroke="#AA7202" stroke-opacity=".46" stroke-width="1.9" stroke-linecap="round"/>
+  <path d="M120.9 154.9 C118.8 160.5 120 167.4 121.2 169" stroke="#FFEC69" stroke-opacity=".32" stroke-width="2.3" stroke-linecap="round"/>
+
+  <!-- Forward hand (olive fingers resting on the beige belly) -->
+  <path d="M72.7 185.1 C69.3 183.7 63.5 181.2 58.6 178.8 C53.1 176.1 48.4 174.5 46.4 176.1 C43.6 179.2 47.7 183.6 52.4 186.1 C45.7 187 39.5 190.2 38.5 194.7 C37.6 198.7 42.4 200.4 48.4 199.7 C41.8 201.8 38.8 205.2 40.4 209.2 C42 212.7 46.5 212.7 51.3 211.4 C46.7 214.2 43.9 216.9 46.6 220.2 C49.3 224.7 57 221.8 66 218.2 C69.7 215.2 79.6 210.3 82.2 205.5 C85.6 198.7 80.5 189.4 72.7 185.1Z" fill="url(#finger)"/>
+  <path d="M46.4 176.1 C43.6 179.2 47.7 183.6 52.4 186.1 C45.7 187 39.5 190.2 38.5 194.7 C37.6 198.7 42.4 200.4 48.4 199.7 C41.8 201.8 38.8 205.2 40.4 209.2 C42 212.7 46.5 212.7 51.3 211.4 C46.7 214.2 43.9 216.9 46.6 220.2" stroke="#594614" stroke-width=".7" stroke-opacity=".22"/>
+  <path d="M39.8 196.8 C44 198 48.8 197 52 195.3 M42 207 C45.6 207.5 49.3 206.7 53.2 205.1 M48.1 216 C50.7 216.2 54.4 214.4 57.4 213.5" stroke="#443607" stroke-width="1.25" stroke-linecap="round" fill="none"/>
+  <path d="M42 182 C46.5 184.5 51 185.1 55 186" stroke="#DCC275" stroke-opacity=".35" stroke-width="1.6" stroke-linecap="round"/>
+  <path d="M40.7 190 C48.4 189 54.4 187.2 61 187.8" stroke="#AB9148" stroke-opacity=".33" stroke-width="1.7" stroke-linecap="round"/>
+
+  <!-- Far eye only peeks beyond the silhouette; forward eye is deliberately modest in size. -->
+  <path d="M55.3 31.2 C53.1 33.8 52.3 39.6 53.5 44.5 C54.9 41.7 56.2 35.8 57.2 32.9Z" fill="#304D20"/>
+  <path d="M56.1 32.1 C54.5 34 54.2 38.7 54.4 40.5" stroke="#83A75F" stroke-width="1.35" stroke-linecap="round"/>
+  <ellipse cx="79.4" cy="35.8" rx="10.7" ry="10.9" fill="#F1C64B"/>
+  <ellipse cx="79.1" cy="35.7" rx="9.85" ry="9.95" fill="url(#eyeIris)"/>
+  <ellipse cx="78.5" cy="35.6" rx="5.25" ry="5.75" fill="url(#pupil)"/>
+  <ellipse cx="77" cy="33.5" rx="1.7" ry="1.3" fill="#F7FFF0" opacity=".35"/>
+  <path d="M71.1 32 C73.5 27.4 79 25.6 84.5 29.1" stroke="#CFF0AA" stroke-opacity=".58" stroke-width="1.35" stroke-linecap="round"/>
+  <path d="M85 39.5 C82.8 44.2 76.5 45.5 72.7 42.4" stroke="#235633" stroke-opacity=".22" stroke-width="1.1" stroke-linecap="round"/>
+
+  <!-- Small, flattened frog mouth: no smile added. -->
+  <path d="M51.3 53.6 C56.7 52.2 64.1 53.3 70.5 54.4 C66.8 56.3 56.8 58.2 52 56.7Z" fill="url(#beak)"/>
+  <path d="M51.9 55.6 C57.7 56 64.7 55.7 70.2 55.5" stroke="#4F3B18" stroke-width="1.36" stroke-linecap="round"/>
+  <path d="M52.2 57 C57.4 59.1 63.3 58.4 67.6 57.3" stroke="#D78B03" stroke-width="1.1" stroke-opacity=".64" stroke-linecap="round"/>
+
+  <!-- Closest foot, grounded without an environment or drop shadow. -->
+  <path d="M144.1 357 C149.9 359 153.5 363.1 157.5 365.5 C164.4 369.7 169.2 373.5 168 380 C166.6 388.3 152.2 391.4 142.3 393.7 L119.6 393.8 C113 393.6 107.8 391.7 107 387.1 C106.2 381.6 111.4 376.3 119.7 371.7 C126.7 367.8 138.7 360.7 144.1 357Z" fill="url(#footFront)"/>
+  <path d="M109.8 389.7 C108.9 384.2 116.1 380.1 122.5 378.4" stroke="#44360A" stroke-width="2.0" stroke-linecap="round"/>
+  <path d="M119.8 393 C117.4 389.1 121.2 383.9 124.7 381.7" stroke="#3B310A" stroke-width="1.9" stroke-linecap="round"/>
+  <path d="M131.8 394 C129.5 390 131.2 386.3 134.7 383.1" stroke="#433610" stroke-width="1.9" stroke-linecap="round"/>
+  <path d="M132.4 370.3 C140.6 365.7 151.7 365.4 159.8 373.9" stroke="#D3A052" stroke-opacity=".35" stroke-width="2.1" stroke-linecap="round"/>
+</svg>
